@@ -5,23 +5,14 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/christinadeaver0616">
-    <img src="./.github/badges/profile-views.svg" alt="Profile views" />
-  </a>
-  <a href="https://github.com/christinadeaver0616?tab=followers">
-    <img src="./.github/badges/followers.svg" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/christinadeaver0616?tab=repositories">
-    <img src="./.github/badges/stars.svg" alt="GitHub stars" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Location-Murray%2C%20Utah-blue?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20Full--Stack%20roles-success?style=flat-square" alt="Status" />
-  <a href="https://www.linkedin.com/in/christinadeaver/">
-    <img src="https://img.shields.io/badge/LinkedIn-christinadeaver-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/christinadeaver0616"><img height="20" src="./.github/badges/profile-views.svg" alt="Profile views" /></a>
+  <a href="https://github.com/christinadeaver0616?tab=followers"><img height="20" src="./.github/badges/followers.svg" alt="Followers" /></a>
+  <a href="https://github.com/christinadeaver0616?tab=repositories"><img height="20" src="./.github/badges/stars.svg" alt="Stars" /></a>
+  <img height="20" src="https://img.shields.io/badge/Location-Murray%2C%20Utah-blue?style=flat-square" alt="Location" />
+  <img height="20" src="https://img.shields.io/badge/Open%20to-AI%20%26%20Full--Stack%20roles-success?style=flat-square" alt="Status" />
+  <a href="https://www.linkedin.com/in/christinadeaver/"><img height="20" src="https://img.shields.io/badge/LinkedIn-christinadeaver-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
